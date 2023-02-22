@@ -1,7 +1,7 @@
-# Join-Remove
+# Moderator Robot
 
--👋🏻 Salom Men bilan Aloqa: +998935338025
+-👋🏻 Salom Men bilan Aloqa: [Telegram](https://t.me/ai_junior)
 
--🐍 Portfolio uchun
+-🐍 Portfolio uchun : [Suniy Intellekt](https://t.me/computer_vision_uzbek)
 
--👥 Guruhlarda kirdi chiqdini tozalash uchun 
+-👥 Guruhlarda kirdi chiqdini tozalash uchun robot
